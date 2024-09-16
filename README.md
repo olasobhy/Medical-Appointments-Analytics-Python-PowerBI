@@ -17,11 +17,11 @@ This project aims to predict appointment no-shows using a dataset of medical app
   - **Models Used**: I used **RandomForestClassifier** to predict appointment no-shows.
   - **Evaluation**: Models are evaluated using metrics like accuracy, precision, recall, and F1 score.
 
-### Power BI Report
+## Power BI Report
 
 - I visualize the data to reveal insights.
   <br>
-### Insights:
+## Insights:
 -The number of female appointments is almost double that of male appointments.
 <br>
 -Tuesday has the highest number of scheduled appointments.
