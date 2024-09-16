@@ -35,6 +35,7 @@ This project aims to analysis and predict appointment no-shows using a dataset o
 -The duration between scheduling and the appointment has a significant effect,
 longer durations are associated with higher no-show rates.
 <br>
-<img src="img.png" width="600" height="400">
+<br>
+<img src="img.png" width="700" height="700">
 
 
