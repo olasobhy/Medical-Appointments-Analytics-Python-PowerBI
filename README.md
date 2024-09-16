@@ -23,10 +23,15 @@ This project aims to predict appointment no-shows using a dataset of medical app
   <br>
 ### Insights:
 -The number of female appointments is almost double that of male appointments.
+<br>
 -Tuesday has the highest number of scheduled appointments.
+<br>
 -Wednesday has the highest number of actual appointments.
+<br>
 -Saturday has a very small number of both appointments and scheduled appointments.
+<br>
 -75% of people do not receive any SMS reminders, which impacts appointment attendance.
+<br>
 -The duration between scheduling and the appointment has a significant effect,
 longer durations are associated with higher no-show rates.
 
