@@ -30,7 +30,7 @@ This project aims to analysis and predict appointment no-shows using a dataset o
 <br>
 -Saturday has a very small number of both appointments and scheduled appointments.
 <br>
--75% of people do not receive any SMS reminders, which impacts appointment attendance.
+-Alot of people do not receive any SMS reminders, which impacts appointment attendance.
 <br>
 -The duration between scheduling and the appointment has a significant effect,
 longer durations are associated with higher no-show rates.
