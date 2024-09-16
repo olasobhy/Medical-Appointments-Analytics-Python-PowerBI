@@ -14,7 +14,7 @@ This project aims to analysis and predict appointment no-shows using a dataset o
 - **Exploratory Data Analysis (EDA)**: Analyze the dataset to uncover patterns and trends related to patient no-shows.
 - **Handling Imbalanced Classes**: Applied **SMOTE** to address class imbalance and improve model performance.
 - **Predictive Modeling**:
-  - **Models Used**: I used **RandomForestClassifier** to predict appointment no-shows.
+  - **Models Used**: I used **RandomForestClassifier** and **XGBoost** to predict appointment no-shows.
   - **Evaluation**: Models are evaluated using metrics like accuracy, precision, recall, and F1 score.
 
 ## Power BI Report
