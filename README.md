@@ -20,7 +20,8 @@ This project aims to predict appointment no-shows using a dataset of medical app
 ### Power BI Report
 
 - I visualize the data to reveal insights.
-#### Insights:
+  <br>
+### Insights:
 -The number of female appointments is almost double that of male appointments.
 -Tuesday has the highest number of scheduled appointments.
 -Wednesday has the highest number of actual appointments.
