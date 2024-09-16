@@ -36,6 +36,6 @@ This project aims to analysis and predict appointment no-shows using a dataset o
 longer durations are associated with higher no-show rates.
 <br>
 <br>
-<img src="img.png" width="700" height="700">
+<img src="img.png" width="700" height="400">
 
 
